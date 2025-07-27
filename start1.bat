@@ -1,0 +1,1 @@
+C:\Users\justv\Desktop\res_project\venv\Scripts\python.exe C:\Users\justv\Desktop\res_project\run.py
